@@ -1,11 +1,6 @@
-[![Build Status](https://travis-ci.com/trydirect/symfony4-restful.svg?branch=master)](https://travis-ci.com/trydirect/symfony4-restful)
-![Docker Stars](https://img.shields.io/docker/stars/trydirect/symfony4-restful.svg)
-![Docker Pulls](https://img.shields.io/docker/pulls/trydirect/symfony4-restful.svg)
-![Docker Automated](https://img.shields.io/docker/cloud/automated/trydirect/symfony4-restful.svg)
-![Docker Build](https://img.shields.io/docker/cloud/build/trydirect/symfony4-restful.svg)
-[![Gitter chat](https://badges.gitter.im/trydirect/community.png)](https://gitter.im/try-direct/community)
 
-# Symfony4-RESTful development template
+
+# Symfony-REST-API-Boilerplate
 
 RESTfull API development template based on Symfony 4 for development purpose
 
@@ -65,22 +60,3 @@ Date: Fri, 24 May 2019 16:45:55 GMT
 {"id":"s","name":"Test","description":"Description"}
 ```
 
-
-## Quick deployment to cloud
-##### Amazon AWS, Digital Ocean, Hetzner and others
-[<img src="https://img.shields.io/badge/quick%20deploy-%40try.direct-brightgreen.svg">](https://try.direct/server/user/deploy/InN5bWZvbnk0LXJlc3RmdWx8NnwxOCI.EAoFeA.umf6rDAsIUL624SeCMLSJFAdLgY/)
-
-
-
-# Contributing
-
-1. Fork it (https://github.com/trydirect/symfony4-restful/fork)
-2. Create your feature branch (git checkout -b feature/fooBar)
-3. Commit your changes (git commit -am 'Add some fooBar')
-4. Push to the branch (git push origin feature/fooBar)
-5. Create a new Pull Request
-
-
-# Support Development
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2BH8ED2AUU2RL)
