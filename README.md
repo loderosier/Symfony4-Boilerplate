@@ -29,11 +29,11 @@ $ pip install docker-compose
 ## Installation
 Clone this project into your work directory:
 ```sh
-$ git clone https://github.com/trydirect/symfony4-restful.git
+$ git clone https://github.com/mkolovos/Symfony-REST-API-Boilerplate.git
 ```
 Then build it via docker-compose:
 ```sh
-$ cd symfony4-restful
+$ cd Symfony-REST-API-Boilerplate
 $ docker-compose up -d
 ```
 
