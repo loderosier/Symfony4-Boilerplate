@@ -1,6 +1,6 @@
 
 
-# Symfony-REST-API-Boilerplate
+# Symfony4 Boilerplate
 
 RESTfull API development template based on Symfony 4 for development purpose
 
